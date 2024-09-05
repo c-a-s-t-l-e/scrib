@@ -10,5 +10,5 @@ Essentially, the end goal of scrib is to provide the user a tool that allows the
 The new approach consisting of three parts:
 
 1. Identifying the pieces that make up the text (the structure).
-2. Making a list of posssible central question that the author was trying to answer.
-3. Providing evidence why the central question you eventually decided on is the one based off of the text. 
+2. Making a list of posssible central question (the topic) that the author was trying to answer.
+3. Providing an answer (the thesis) to the chosen central question by documenting evidence that exists in the text. 
