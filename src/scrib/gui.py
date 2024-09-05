@@ -1,6 +1,6 @@
 from PyQt5.QtWidgets import QMainWindow, QFileDialog, QVBoxLayout, QWidget, QPushButton, QLabel
 from PyQt5.QtCore import Qt
-from .pdf_handler import PDFHandler
+from pdf_handler import PDFHandler
 
 class PDFReaderGUI(QMainWindow):
     def __init__(self):

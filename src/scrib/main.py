@@ -1,5 +1,5 @@
 from PyQt5.QtWidgets import QApplication
-from .gui import PDFReaderGUI
+from gui import PDFReaderGUI
 import sys
 
 def main():
