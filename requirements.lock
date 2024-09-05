@@ -10,6 +10,10 @@
 #   universal: false
 
 -e file:.
+pymupdf==1.24.10
+    # via scrib
+pymupdfb==1.24.10
+    # via pymupdf
 pyqt5==5.15.11
     # via scrib
 pyqt5-qt5==5.15.14
