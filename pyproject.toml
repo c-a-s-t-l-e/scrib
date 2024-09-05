@@ -1,0 +1,24 @@
+[project]
+name = "scrib"
+version = "0.1.0"
+description = "Add your description here"
+authors = [
+    { name = "c-a-s-t-l-e", email = "125324881+c-a-s-t-l-e@users.noreply.github.com" }
+]
+dependencies = []
+readme = "README.md"
+requires-python = ">= 3.8"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.rye]
+managed = true
+dev-dependencies = []
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/scrib"]
