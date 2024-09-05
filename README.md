@@ -1,6 +1,9 @@
-# scrib
+<div align="center">
+  <img src="docs/static/scrib-logo.png" width="100">
+  <p><strong>scrib</strong> Convenient Reading, Better Understanding</p>
+</div>
 
-### Convenient Reading, Better Understanding
+### The Objective
 
 Essentially, the end goal of scrib is to provide the user a tool that allows them to read a pdf, leave bookmarks where they would like to, and leave the door open to try an approach to reading based off of Mortimor Adler's book [_How to Read a Book_](https://en.wikipedia.org/wiki/How_to_Read_a_Book).
 
