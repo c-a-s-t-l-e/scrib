@@ -10,3 +10,9 @@
 #   universal: false
 
 -e file:.
+pyqt5==5.15.11
+    # via scrib
+pyqt5-qt5==5.15.14
+    # via pyqt5
+pyqt5-sip==12.15.0
+    # via pyqt5

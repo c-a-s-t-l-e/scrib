@@ -5,7 +5,9 @@ description = "Add your description here"
 authors = [
     { name = "c-a-s-t-l-e", email = "125324881+c-a-s-t-l-e@users.noreply.github.com" }
 ]
-dependencies = []
+dependencies = [
+    "pyqt5>=5.15.11",
+]
 readme = "README.md"
 requires-python = ">= 3.8"
 
